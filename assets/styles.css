@@ -1424,6 +1424,9 @@ form {
   .gbadge {
     justify-self: start;
   }
+  .reel-track {
+    animation-duration: 40s;
+  }
   .reel figure.big {
     width: 270px;
     height: 340px;
